@@ -1,5 +1,5 @@
 body {
-    background-image: url("../afbeeldingen/background.jpg");
+    background-image: url("../afbeeldingen/eten.jpg");
     background-size: cover;
 
         
@@ -9,11 +9,11 @@ header, nav, footer, article {
     display: block;
     font-family: Trebuchet, Trebuchet MS, Verdana;
     text-align: center;
-    float: center;
+    float: right;
     width: 85%;
     margin: 10px;
     padding: 10px;
-    background-color: #414141;
+    background-color: #e4351d;
     /* lichtblauw */
 }
 
@@ -40,7 +40,7 @@ nav {
 .menu {
     display: block;
     width: 70px;
-    background-color: #2954e1;
+    background-color: #64F5E6;
     /* lichtblauw */
     text-decoration: none;
     padding: 10px;
@@ -50,7 +50,7 @@ nav {
 
 .menu:hover {
     background-color: black;
-    color: #2954e1;
+    color: #64F5E6;
     /* lichtblauw */
 }
 
@@ -65,7 +65,7 @@ article {
     width: 85%;
     margin: 10px;
     padding: 10px;
-    background-color: #2954e1;
+    background-color: #64F5E6;
     /* lichtblauw */
 }
 
